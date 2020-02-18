@@ -6,18 +6,18 @@ favicon: images/favicon.ico
 name: Che-Shao(Bill) Chen
 title: Master Student in Concordia University
 email: bill1119@hotmail.com
-website: www.github.com/Bill1119
+website: www.github.com/Bill1119/Bill1119.github.io
 
 # Social links
- twitter_username: 
- github_username:  Bill1119
- # dribbble_username: jekyll
- # facebook_username: jekyll
- # flickr_username: jekyll
- instagram_username: 
- linkedin_username: Che Shao Chen
+twitter_username: facespics
+github_username:  sproogen
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: chillwildlife
+linkedin_username: jameswgrant
 # pinterest_username: jekyll
- youtube_username: 
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -37,16 +37,32 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
-More Section
-more_title: TECHNICAL SKILLS 
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-* indicates the level of experience (*** - advanced               ** - intermediate               * -basic )
-Programming Development Web Database Others 
-   Java ​*** Eclipse ​*** Flask ​** ER Diagram ​** UML ​** 
-   Python ​** Anaconda ​** React ​** Spark ​** Windows ​** 
-   R ​* Bash ​** HTML/CSS ​* MySQL ​* Linux ​** 
-   JavaScript ​* JetBrains ​**  SQLite​ * JUnit ​** 
-   C# ​* GitHub ​**   Keras ​* * 
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
 # Footer
 footer_show_references: true
 
@@ -59,3 +75,26 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+# More Section
+# more_title: TECHNICAL SKILLS 
+# more_content: | # this will include new lines to allow paragraphs
+# * indicates the level of experience (*** - advanced               ** - intermediate               * -basic )
+# Programming Development Web Database Others 
+#    Java ​*** Eclipse ​*** Flask ​** ER Diagram ​** UML ​** 
+#    Python ​** Anaconda ​** React ​** Spark ​** Windows ​** 
+#    R ​* Bash ​** HTML/CSS ​* MySQL ​* Linux ​** 
+#    JavaScript ​* JetBrains ​**  SQLite​ * JUnit ​** 
+#    C# ​* GitHub ​**   Keras ​* * 
+# # Footer
+# footer_show_references: true
+
+# # Build settings
+# remote_theme: sproogen/resume-theme
+
+# sass:
+#   sass_dir: _sass
+#   style: compressed
+
+# plugins:
+#  - jekyll-seo-tag
