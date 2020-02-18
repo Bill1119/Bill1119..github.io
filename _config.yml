@@ -51,7 +51,7 @@ Programming Development Web Database Others
 footer_show_references: true
 
 # Build settings
-remote_theme: Bill1119/Bill1119.github.io
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
