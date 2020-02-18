@@ -46,16 +46,16 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-level of experience (*** - advanced               ** - intermediate               * -basic )
-Programming      Development    Web             Database        Others 
-   Java ***      Eclipse ***    Flask **        ER Diagram **   UML ** 
-   Python **     Anaconda **    React **        Spark **        Windows ** 
-   R *           Bash **        HTML/CSS *      MySQL *         Linux ** 
-   JavaScript *  JetBrains **                   SQLite *        JUnit ** 
-   C# *          GitHub **                                      Keras ** 
+# # More Section
+# # more_title: A Little More About Me
+# more_content: | # this will include new lines to allow paragraphs
+# level of experience (*** - advanced               ** - intermediate               * -basic )
+# Programming      Development    Web             Database        Others 
+#    Java ***      Eclipse ***    Flask **        ER Diagram **   UML ** 
+#    Python **     Anaconda **    React **        Spark **        Windows ** 
+#    R *           Bash **        HTML/CSS *      MySQL *         Linux ** 
+#    JavaScript *  JetBrains **                   SQLite *        JUnit ** 
+#    C# *          GitHub **                                      Keras ** 
 
 
 # Footer
