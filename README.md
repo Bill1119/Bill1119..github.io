@@ -1,2 +1,2 @@
-# Bill1119..github.io
+# Bill1119.github.io
 Personal web page
