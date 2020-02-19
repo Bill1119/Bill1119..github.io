@@ -1,34 +1,30 @@
 - layout: left
   company: An Empirical Study on the Impact of Refactoring on Test Cases
   link: 
-  job_title: Technologies - Java, Python, Anaconda, JACOCO, GitHub
+  job_title: Technologies used with Java, Python, Anaconda, JACOCO, GitHub
   dates: Sep-Dec 2019
-  quote: >
-   
   description: | # this will include new lines to allow paragraphs
    - Analyzed the impact of refactoring on test cases by running test cases in open source systems. 
    - Filtered and analyzed the refactoring types in source code using automated tools (e.g. JaCoCo, and JDeodorant).  
    - Implemented Python scripts to analyze test coverage. 
    - Applied mining software repositories techniques to analyze software development history.  
 
+- layout: left
   company: Logram - Efficient Log Parsing Using n-Gram Dictionaries
   link: https://arxiv.org/pdf/2001.03038.pdf
-  job_title: Technologies - Python, Spark, Flask, React, JetBrains, GitHub 
-  dates: Jan-Dec 2019 
-  quote: >
-   
+  job_title: Technologies used with Python, Spark, Flask, React, JetBrains, GitHub 
+  dates: Jan-Dec 2019    
   description: | # this will include new lines to allow paragraphs
   - Developed an approach using PySpark to analyze and identify system log lines. 
   - Implemented a log preprocessing technique for machine-learning-base log analysis. 
   - Implemented a web service using React and Flask to manage parallel computation. 
-  - Submitted the research paper "Logram: Efficient Log Parsing Using n-Gram. Dictionaries” to IEEE Transactions on Software Engineering. 
-  
+  - Submitted the research paper "Logram, Efficient Log Parsing Using n-Gram. Dictionaries” to IEEE Transactions on Software Engineering. 
+
+- layout: left
   company: Risk Game: An Army Chess Like Strategy Game 
   link: https://github.com/wasabio/Risk-Game
-  job_title: Technologies - Java, JUnit, UML, Eclipse, GitHub
+  job_title: Technologies used with Java, JUnit, UML, Eclipse, GitHub
   dates: Sep-Dec 2018
-  quote: >
-   
   description: | # this will include new lines to allow paragraphs
    - Developed a strategy game in Java from the ground up. 
    - Fulfilled all the requirements, design, architecture, and implementation of the project.   
@@ -36,23 +32,21 @@
    - Covered all the functions with unit test cases and prepared API documentation. 
    - Applied Git for source control management.  
  
+- layout: left
   company: Extension of UML Violet Editor 
   link: https://github.com/Bill1119/violetumleditor-GroupL 
-  job_title: Technologies - Java, JUnit, UML, GitHub 
+  job_title: Technologies used with Java, JUnit, UML, GitHub 
   dates:  Sep-Dec 2017 
-  quote: >
-   
   description: | # this will include new lines to allow paragraphs
    - Maintained and added new features for an open-source Java UML editor (Violet Editor). 
    - Implemented new features and UI components for the UML editor to show the Coupling Between Objects (CBO) between classes.    
    - Refactored and added new test cases for the new features and other related code.   
-   
+  
+- layout: left
   company: Virtual Touring System for Lanyang Campus 
   link: https://github.com/wasabio/Risk-Game
-  job_title: Technologies - Java, C#, JavaScript, Unity
+  job_title: Technologies used with Java, C#, JavaScript, Unity
   dates: 2014-2015
-  quote: >
-   
   description: | # this will include new lines to allow paragraphs
    - Applied virtual reality for guiding visitors over the Internet. 
    - Participated in designing speech recognition algorithms implemented using C# and Unity.    
