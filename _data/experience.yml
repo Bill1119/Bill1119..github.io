@@ -1,7 +1,7 @@
 - layout: left
   company: An Empirical Study on the Impact of Refactoring on Test Cases
   link: 
-  job_title: Technologies: Java, Python, Anaconda, JACOCO, GitHub
+  job_title: Technologies - Java, Python, Anaconda, JACOCO, GitHub
   dates: Sep-Dec 2019
   quote: >
    
@@ -14,7 +14,7 @@
 - layout: left
   company: Logram: Efficient Log Parsing Using n-Gram Dictionaries
   link: https://arxiv.org/pdf/2001.03038.pdf
-  job_title: Technologies: Python, Spark, Flask, React, JetBrains, GitHub 
+  job_title: Technologies - Python, Spark, Flask, React, JetBrains, GitHub 
   dates: Jan-Dec 2019 
   quote: >
    
@@ -27,7 +27,7 @@
 - layout: left
   company: Risk Game: An Army Chess Like Strategy Game 
   link: https://github.com/wasabio/Risk-Game
-  job_title: Technologies: Java, JUnit, UML, Eclipse, GitHub
+  job_title: Technologies - Java, JUnit, UML, Eclipse, GitHub
   dates: Sep-Dec 2018
   quote: >
    
@@ -41,7 +41,7 @@
  - layout: left
   company: Extension of UML Violet Editor 
   link: https://github.com/Bill1119/violetumleditor-GroupL 
-  job_title: Technologies: Java, JUnit, UML, GitHub 
+  job_title: Technologies - Java, JUnit, UML, GitHub 
   dates:  Sep-Dec 2017 
   quote: >
    
@@ -53,7 +53,7 @@
 - layout: left
   company: Virtual Touring System for Lanyang Campus 
   link: https://github.com/wasabio/Risk-Game
-  job_title: Technologies: Java, C#, JavaScript, Unity
+  job_title: Technologies - Java, C#, JavaScript, Unity
   dates: 2014-2015
   quote: >
    
