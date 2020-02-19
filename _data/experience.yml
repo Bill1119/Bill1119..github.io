@@ -11,7 +11,6 @@
    - Implemented Python scripts to analyze test coverage. 
    - Applied mining software repositories techniques to analyze software development history.  
 
-- layout: left
   company: Logram - Efficient Log Parsing Using n-Gram Dictionaries
   link: https://arxiv.org/pdf/2001.03038.pdf
   job_title: Technologies - Python, Spark, Flask, React, JetBrains, GitHub 
@@ -24,7 +23,6 @@
   - Implemented a web service using React and Flask to manage parallel computation. 
   - Submitted the research paper "Logram: Efficient Log Parsing Using n-Gram. Dictionaries” to IEEE Transactions on Software Engineering. 
   
-- layout: left
   company: Risk Game: An Army Chess Like Strategy Game 
   link: https://github.com/wasabio/Risk-Game
   job_title: Technologies - Java, JUnit, UML, Eclipse, GitHub
@@ -38,7 +36,6 @@
    - Covered all the functions with unit test cases and prepared API documentation. 
    - Applied Git for source control management.  
  
- - layout: left
   company: Extension of UML Violet Editor 
   link: https://github.com/Bill1119/violetumleditor-GroupL 
   job_title: Technologies - Java, JUnit, UML, GitHub 
@@ -50,7 +47,6 @@
    - Implemented new features and UI components for the UML editor to show the Coupling Between Objects (CBO) between classes.    
    - Refactored and added new test cases for the new features and other related code.   
    
-- layout: left
   company: Virtual Touring System for Lanyang Campus 
   link: https://github.com/wasabio/Risk-Game
   job_title: Technologies - Java, C#, JavaScript, Unity
